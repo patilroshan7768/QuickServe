@@ -1,0 +1,9 @@
+package com.quickserve.entity;
+
+public enum BookingStatus {
+    PENDING,
+    APPROVED,
+    REJECTED,
+    COMPLETED,
+    CANCELLED
+}
